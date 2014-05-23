@@ -1,6 +1,7 @@
 -------------------------
 Assetlist
 -------------------------
+	[] Arrow
 Tutorial:
 	[ ] Carrot
 	[ ] magical Plant
