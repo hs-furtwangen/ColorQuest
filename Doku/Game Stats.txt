@@ -1,0 +1,17 @@
+Resolution:
+	1280 x 720 px
+
+Language:
+	english
+
+Programmed with and in
+	Adobe Flash Pro
+	Action Script 3.0
+
+Team Members:
+	Anke Meiering
+	Susanne Schmidt
+	Sarah Häfele
+	Jannik Zolg
+	Lukas Scheuerle
+	Caspar Jacob
