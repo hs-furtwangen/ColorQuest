@@ -7,7 +7,6 @@
 
 		private var _inventar:Inventar;
 
-		private var _name:String;
 		private var _suitableItem:Item;
 		private var _container:DisplayObjectContainer;
 		private var _stored:Boolean = false;
@@ -22,12 +21,12 @@
 		}
 		
 		private function ItemPicked(evt:MouseEvent){
-			var dc:DisplayObjectContainer = evt.target.parent;
+			_container = evt.target.parent;
 
 			if(_inventar == null)
-				for (var i:uint = 0; i < dc.numChildren; i++)
+				for (var i:uint = 0; i < _container.numChildren; i++)
 				{
-					var element = dc.getChildAt(i);
+					var element = _container.getChildAt(i);
 					if (element is Inventar)
 					{
 						_inventar = element;
@@ -36,8 +35,11 @@
 				}
 			_inventar.AddItem(this);
 			_stored = true;
+			
+			
 			this.removeEventListener(MouseEvent.CLICK, ItemPicked);
-			this.addEventListener(MouseEvent.CLICK, StoredItemClicked);	
+			this.addEventListener(MouseEvent.MOUSE_DOWN, StoredItemClicked);	
+			
 		}
 		
 		private function StoredItemClicked(evt:MouseEvent){
