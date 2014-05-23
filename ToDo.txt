@@ -1,0 +1,23 @@
+-------------------------
+Assetlist
+-------------------------
+Tutorial:
+	[ ] Carrot
+	[ ] magical Plant
+	[ ] empty wooden bowl
+	[ ] filled wooden bowl with medicine
+
+
+
+
+
+
+
+
+
+-------------------------
+Gameplay Ideas
+-------------------------
+
+[ ] Random Witch Appearance
+	--> reduced view
