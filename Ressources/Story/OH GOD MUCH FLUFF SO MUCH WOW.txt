@@ -1,0 +1,106 @@
+We have a ball of light (Protoss Archon?)
+Logically all puzzles must be based on light objects
+
+Laser puzzles, sight radius
+Memory based puzzles, makes you remember the scenarios the player has been in.
+Alternate ending/responses depending on the items you take? (gives all the accomplish-all-the-thing players a sense of achievement)
+THIS COMPUTER HAS NO MOUSE
+WHAT THE HECK
+
+ANYWAYS...
+Troll levels must be related to trolly behaviour
+Trolls are usually afraid of light
+This can be used as a plot device for the laser puzzle
+Rotate mirrors to direct the light to the troll, scaring him away
+
+Werewolf fear silver or the hunter right?
+Imagine a level with shadow puzzles
+YES! SHADOW PUZZLES!
+Make the werewolf fear for his life by arranging forest components to make a shadow of a hunter.
+Use a fixed light point in case light is not enough (unlike those iPhone puzzle games when you can rotate like sh
+Anyways
+Why would a frog, a puny frog become the guardian of a puzzle?
+What if...what if the frog is just one of the older guardians, but corrupted by the witchs magic?
+Now that is dramatic yall
+The original guardians are the owl, rabbit and the frog
+The owl watches the sky, the rabbit watches the land while the frog watches the waters
+Corrupted pond with green backgrounds?
+Which releases the green spirit! Might as well!
+Blue spirit represents the misty air of the forest
+Red spirit represents the clay grounds of the forest
+Green spirit represents the mossy marshes of the forest
+Or in case the spirits arent related to the forest, they can be the detached pieces of the original light spirit
+Everything is in monochrome unless each aspects is returned to the original owner
+Which probably make more sense because noob gamers wont accept the fact that water can be represented as green
+BECAUSE THE SKY WAS BLUE FROM THE START
+but i thought the sky was blue because of the reflection of the sea?
+DO YOU WANT A GREEN SKY
+okay no moving on
+Brain scrambled. Back to the frog. What can the light spirit do to liberate the frog?
+Rather than a puzzle, what if this is instead a point and click quest? Find the source of corruption and stuff?
+The source of corruption is always upstream! Find the quelle.
+What puzzle could be at the source of the fountain to purge the fountain?
+The frog could be the easiest of all bosses. 
+Go back to the rabbit, tell him that now you know that he is one of the guardians. 
+The rabbit made a terrible slip of letting the witch win one way or another.
+The frog got corrupted. The owl sacrificed her physical form to shield the forest temporarily. The rabbit ran.
+But the rabbit knows a good antidote to the corruption. 
+You want something tragic? I can give you something tragic. The cure contains a potent rare ingredient.
+The rare ingredient must contain the beating heart of good and evil.
+Two options of the items, the mystical seriously-hard-to-find Corrupted Forest Heart (which has another puzzle for itself. HARD MODE BITCHES)
+Plot twist, Corrupted Forest Heart is the hollow shell of the main character, hollowed out by the witch.
+And the other option is...the heart of the rabbit, carved out.
+MORALITY OPTION. TWO DIFFERENT ENDINGS. MWAHAHAHAHAHA.
+The Corrupted Forest Heart, since it has its own puzzle, gives the a good ending.
+The frog is healed from the corruption, he joins power with the rabbit to restore the physical form of the owl. Everyone is happy!
+And if you kill the rabbit?
+The frog realizes that you killed the rabbit. Now that he is the last one of the trifecta, he is powerless.
+His last resort as penance is to sacrifice his physical form to help remove the corruption of the witch. The three guardians are transformed into spirits. SAD ENDING NO??? HUEHUEHUEHUE
+
+So to summarize
+The troll will be the light line puzzle, reflecting light to his cave
+The werewolf will be the shadow puzzle, using the shadow to mimic an appearance of the hunter.
+This dissects the light-dark dichotomy, that both light and dark can be used for good or evil. SO DEEP
+The frog will be either the easiest or the hardest puzzle, giving players a choice to play the game the noob way or the pro way.
+The puzzle only involves finding ingredients, but the easy way gives the bad ending, the hard way gives a better ending.
+
+=============================================================================================================================================================
+
+
+So here is the storyline to make the days easy for the programmer
+Main quest is still main quest
+Branches into three miniboss
+One miniboss, the frog, has a side quest. This side quest can unlock you the secret, happier ending.
+The side quest gives you an extra, harder puzzle/riddle. (JUST ONE DUE TIME CONSTRAINT BIATCHESSS)
+
+=BAD ending=
+All three spirits lose their physical form, and attends the final battle. The witch ridicules them.
+The protagonist collects 3 colour aspects to power himself and defeats the witch.
+The witch taunted the protagonist upon the fact on how it has amnesia
+The Corrupted Heart of the Forest gets destroyed due to evil. 
+The forest was restored, but was never as colourful as before.
+=GOOD ending=
+Frog is uncorrupted with the good way, he and Rabbit uses their magic to revive Owl's physical form.
+The protagonist finds out extended lore, absorbs (not just collects) 3 colour aspects and its dark counterpart to return his superpower to confront the bitch
+The witch laments the fact that the protagonist discovered everything she tried to hide
+The protagonist restores the forest with the full power of itself and the three guardians
+The forest was fully restored, as colourful as before
+
+ALL FLUFF. NO MESS. maybe the art designer will complain at me BUT OH WELL.
+
+=============================================================================================================================================================
+
+
+NOW ONTO LORE CRAFTING MODE!!!
+
+GLOSSARIUM MAGNIFICUM
+
+-Farbenwald
+The location of the game. A forest of colours, a nexus of harmony. The balance was disrupted when a mysterious dark force decided to come and corrupt the heart of the forest. Three guardians guard the forest, each guard one aspect of the forest. In the center of the forest lies a living force of pure life, the Schwarzlichtseele. The center maintains the light and shadows of the forest, the day and night. When the center is corrupted, the balance of the whole forest will be undone.
+
+-Schwarzlichtseele
+The sentient source of life of the Farbenwald. Regulates the cycle of day and night in the forest. Gives live and sentience to all creature. Replenishes those who needs it. When the dark force finally got her hands on the source of all this power, the heart of the forest was shattered into 5 pieces. Three of those were captured by the dark force, and under her control, fed her with constant power. But this power is not complete as one piece has turned into a hollow shell of what used to be the heart of the forest, while the other piece...escaped. (HINT HINT MAIN CHARACTER HINT HINT BITCHES)
+
+-Naturaspekten
+The three guardians of the forest. The guardian of the sky watches under the guise of a wise owl. The guardian of the land scouts under the form of a nimble rabbit. The guardian of the waters guards under the form of a mighty toad. They are immortal and ageless, yet can be repulsed from their powerful physical shells with proper force, or corrupted with substantial evil. 
+
