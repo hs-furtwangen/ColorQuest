@@ -9,9 +9,12 @@ Programmed with and in
 	Action Script 3.0
 
 Team Members:
-	Anke Meiering
-	Susanne Schmidt
-	Sarah Häfele
-	Jannik Zolg
-	Lukas Scheuerle
-	Caspar Jacob
+	Anke Meiering - 2D Art Director
+	Susanne Schmidt - Game Designer 
+	Sarah Häfele - Programmer & Game Designer
+	Jannik Zolg - 2D Artist & Programmer
+	Lukas Scheuerle - 2D Artist & Musician
+	Caspar Jacob - Programmer
+	Michael Gondokusumo - Author & Creative Head
+	Barbara Kopf - Riddle & Puzzle Designer
+	Special Thanks to: Ai Dong 
