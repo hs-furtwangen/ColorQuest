@@ -22,7 +22,7 @@ Items
 	
 Characters
 	The three Guardians:
-		[ ] Frog	(The Water Guardian)
+		[x] Frog	(The Water Guardian)
 		[ ] Wise Owl (The Air Guardian)
 		[ ] Rabbitfather (The Earth Guardian)
 	
