@@ -44,7 +44,14 @@ Rabbit
 									
 									If yes:
 									Farewell my friend - I shall leave this place to the spirit world. Take my heart and do not let my sacrifice be in vain.
-									--> rabbit leaves, spirit rabbit appears --> heart appears in inventory
-	
-						
+									
+Werwolf
+	Situation		Comments		Dialog
+	-------------------------------------------------------------------------------------------------------------------------------------------------------
+	1								What do we have here? A Light. Do you really think you can defeat me? You are just a mere Light with no power here. 
+									You neither have a weapon nor the strength to scare me. The only thing scarier than me is mankind. And even if you could get past me you also don't have the key to free the color.					
+									--> shadow puzzle appears
+
+
+					
 									
