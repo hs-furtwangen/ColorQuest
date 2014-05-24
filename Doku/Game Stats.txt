@@ -1,4 +1,4 @@
-Resolution:
+﻿Resolution:
 	1280 x 720 px
 
 Language:
@@ -11,8 +11,7 @@ Programmed with and in
 Team Members:
 	Anke Meiering - 2D Art Director
 	Susanne Schmidt - Game Designer 
-	Sarah Häfele - Programmer & Game Designer
-	Jannik Zolg - 2D Artist & Programmer
+	Sarah Häfele - Programmer & Game Designer 
 	Lukas Scheuerle - 2D Artist & Musician
 	Caspar Jacob - Programmer
 	Michael Gondokusumo - Author & Creative Head
