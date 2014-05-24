@@ -1,8 +1,17 @@
 Witch
 	Situation		Comments		Dialog
-	-------------------------------------------------------------------------------------------------------------------------------------------------------
-	1		
-
+Witch
+	Situation		Comments		Dialog
+	-------------------------------------------------------------------------------------------------------------------------------------------------------	
+	1				StartDialogue
+									"Light - I summon you. The world is in need of Your help. A Darkness is spreading and the world is at the edge of distruction.
+									The Black Forest absorbs the colors of life - you are the only one left. Red, Blue, Green and Black are already lost within the depth of the forest. You need to bring them back to restore the balance of this world. For this you have to make your way into the lion's den. Go into the forest and free the colors for the sake of all of us.
+					
+					entrapped	
+									"Light - I see you followed my call.
+									Did you really believe the forest would capture the colors? Did you really believe you could safe them? The forest needs the colors to live and she would never hurt her beloved creatures. But I - the Witch - need to take over the control over the colors to enhance my power. You really are the only one left. Since you are too powerful I had to lure you inside the eternal darkness of this forest where you are weakened.
+									--> owl appears
+									
 Rabbit
 	Situation		Comments		Dialog
 	-------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -28,6 +37,7 @@ Rabbit
 									If yes:
 									Farewell my friend - I shall leave this place to the spirit world. Take my heart and do not let my sacrifice be in vain.
 									--> rabbit leaves, spirit rabbit appears --> heart appears in inventory
+	
 						
 						
 	
