@@ -59,4 +59,13 @@ Troll
 	1								Argh Light get Lost you hurt my eyes. To my luck your light is not strong enough to get rid of me.
 									--> laser puzzle appears
 					
-									
+Frog
+	Situation		Comments		Dialog
+	-------------------------------------------------------------------------------------------------------------------------------------------------------	
+	1				corrupted		I want to destroy everything. This world has no right to exist anymore. Who are you?....
+									And who am I? Why am I still alive although my heart is no more.
+									... Have you seen this white creature over there? Why do I always see it? Get out of here. NOW.
+	2				heartObtained	Hey what did you give me? My Chest - it's burning? This feeling ...
+									--> The frog comes back to senses
+	
+	3				BackToSenses			
