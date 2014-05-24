@@ -28,6 +28,7 @@ Characters
 	
 	[ ] Werewolf
 	[ ] Troll
+	[ ] Witch
 
 
 
