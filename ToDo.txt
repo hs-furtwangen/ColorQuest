@@ -3,6 +3,7 @@ Assetlist
 -------------------------
 GUI Elements
 	[x] Arrow
+	[ ] Mirror (Triangle Shape, about 30x30px)
 	
 Items
 	Tutorial:
