@@ -1,12 +1,23 @@
 -------------------------
 Assetlist
 -------------------------
+GUI Elements
 	[] Arrow
-Tutorial:
-	[ ] Carrot
-	[ ] magical Plant
-	[ ] empty wooden bowl
-	[ ] filled wooden bowl with medicine
+	
+Items
+	Tutorial:
+		[ ] Carrot
+		[ ] magical Plant
+		[ ] empty wooden bowl
+		[ ] filled wooden bowl with medicine
+
+	Frog
+		[ ] Heart
+		[ ] Black Sphere "Eternal Darkness"
+		
+	Werewolf
+		[ ] Shadow
+	
 
 
 
