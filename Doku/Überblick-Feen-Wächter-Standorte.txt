@@ -1,0 +1,11 @@
+Fee A = rot
+Fee B = blau
+Fee C = grün
+
+Wächter A = Werwolf
+Wächter B = Troll
+Wächter C = Frosch
+
+Stelle A = Baum
+Stelle B = Höhle
+Stelle C = Wasserfall

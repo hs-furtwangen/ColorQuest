@@ -1,13 +1,23 @@
-
+﻿
 //boolean values if the keys are obtained or not
 var keyrObtained : boolean = false;
 var keybObtained : boolean = false;
 var keygObtained : boolean = false;
 
-//boplean values if the fairies are freed or not
+//boolean values if the fairies are freed or not
 var fairyrFreed : boolean = false;
-var farybFreed : boolean = false;
-var farygFreed : boolean = false;
+var fairybFreed : boolean = false;
+var fairygFreed : boolean = false;
+
+//boolean values if the items are collected or not
+var magicplantObtained : boolean = false;
+var carrotsObtained : boolean = false;
+var woodenbowlObtained : boolean = false;
+var glassbottleObtained : boolean = false;
+var motorsaegeObtained : boolean = false;
+var heartObtained : boolean = false;
+var blackHoleObtained : boolean = false;
+var potionCreated : boolean = false;
 
 //only if quest is solved you can walk all ways
 var rabbitQuestStart : boolean = false;
