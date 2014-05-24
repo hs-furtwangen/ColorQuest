@@ -13,11 +13,20 @@ Items
 
 	Frog
 		[ ] Heart
+		[ ] Glass Bottle
+		[ ] Poition
 		[ ] Black Sphere "Eternal Darkness"
 		
 	Werewolf
 		[ ] Shadow
 	
+Characters
+	The three Guardians:
+		[ ] Frog	(The Water Guardian)
+		[ ] Wise Owl (The Air Guardian)
+		[ ] Rabbitfather (The Earth Guardian)
+	
+	[ ] Werewolf
 
 
 
