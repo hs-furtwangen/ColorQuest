@@ -51,7 +51,7 @@ Special Places
                 [X] Waldrand
                 [ ] Falle
                 [ ] (Hasenfamilie)
-                [ ] Hexenhaus
+                [x] Hexenhaus
                 [ ] Feekurve/ Höhle
                 [ ] Höhle Sackgasse
                 [ ] Wasserfall
