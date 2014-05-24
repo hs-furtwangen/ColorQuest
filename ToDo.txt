@@ -13,8 +13,8 @@ Items
 
 	Frog
 		[x] Heart
-		[ ] Glass Bottle
-		[ ] Poition
+		[x] Glass Bottle
+		[x] Poition
 		[ ] Black Sphere "Eternal Darkness"
 		
 	Werewolf
