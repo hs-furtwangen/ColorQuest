@@ -12,12 +12,22 @@ Rabbit
 									"Dear Light, would you please have some time for us? We are desperately in need of somebody who can help us.			
 									The forest is withering - there is not enough food to feed all her creatures and the sickness is spreading. It's a sickness of the heart - we are losing our inner selves the darker this place gets.
 									I need medicine for my family to stop this insanity. Please collect the incredients for it by searching and clicking on them - they will appear in your inventory. When you have all the items, combine them in the most useful way by clicking on one of them and dragging it onto another.
-									For the medicine we need the one thing that all rabbits love, a bowl to put in and a special magic incredient.
+									For the medicine we need the one thing that all rabbits love, a bowl to put it in and a special magic incredient.
 						
-	2		Quest done				"Thank you, Light. This will not rescue us but it will at least it will delay the spreading a bit. 
+	2		RabbitQuestSolved		
+									"Thank you, Light. This will not rescue us but it will at least delay the spreading of the sickness in my family.
 									You were a big help - come back whenever you need help and I will try to be there for you.
 
-	3		
+	3		FrogQuestStarted		
+									My memory seems to come back with each step you make. You have encountered the Old Frog? He once was a wise guardian of this forest. With the humans poluting the earth he got corrupted and confused. But he can be safed. His heart is frozen and you have to renew it. Here - take mine. The Frog is a powerful creature. You need my help.
+									--> Take it: yes/ no
+									If no:
+									Your heart is as pure as the light you emit. Hm... there might me another chance - but it is only a legend. Legend has it that in the deepest heart of the forest lies the heart of Eternal Darkness - the fifth color that completes the circle.
+									It might be powerful enough to rescue the Old Frog.
+									
+									If yes:
+									Farewell my friend - I shall leave this place to the spirit world. Take my heart and do not let my sacrifice be in vain.
+									--> rabbit leaves, spirit rabbit appears --> heart appears in inventory
 						
 						
 	
