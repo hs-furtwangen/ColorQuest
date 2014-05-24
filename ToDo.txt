@@ -3,7 +3,6 @@ Assetlist
 -------------------------
 GUI Elements
 	[x] Arrow
-	[ ] Mirror (Triangle Shape, about 30x30px)
 	
 Items
 	Tutorial:
@@ -28,7 +27,7 @@ Characters
 		[x] Rabbitfather (The Earth Guardian)
 	
 	[ ] Werewolf
-	[ ] Troll
+	[x] Troll
 
 
 
