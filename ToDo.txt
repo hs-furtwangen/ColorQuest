@@ -18,7 +18,7 @@ Items
 		[ ] Black Sphere "Eternal Darkness"
 		
 	Werewolf
-		[ ] Shadow
+		[x] Shadow
 	
 Characters
 	The three Guardians:
