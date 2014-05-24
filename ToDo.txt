@@ -48,7 +48,7 @@ Ways
 
 Special Places
                 [X] Wiese / Start
-                [ ] Waldrand
+                [X] Waldrand
                 [ ] Falle
                 [ ] (Hasenfamilie)
                 [ ] Hexenhaus
