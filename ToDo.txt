@@ -7,18 +7,18 @@ GUI Elements
 Items
 	Tutorial:
 		[x] Carrot
-		[x] magical Plant
-		[x] empty wooden bowl
-		[x] filled wooden bowl with medicine
+		[ ] magical Plant
+		[ ] empty wooden bowl
+		[ ] filled wooden bowl with medicine
 
 	Frog
-		[x] Heart
-		[x] Glass Bottle
-		[x] Poition
-		[x] Black Sphere "Eternal Darkness"
+		[ ] Heart
+		[ ] Glass Bottle
+		[ ] Poition
+		[ ] Black Sphere "Eternal Darkness"
 		
 	Werewolf
-		[x] Shadow
+		[ ] Shadow
 	
 Characters
 	The three Guardians:
@@ -26,9 +26,9 @@ Characters
 		[x] Wise Owl (The Air Guardian)
 		[ ] Rabbitfather (The Earth Guardian)
 	
-		[ ] Werewolf
-		[ ] Troll
-		[ ] Witch
+	[ ] Werewolf
+	[ ] Troll
+	[ ] Witch
 
 <<<<<<< HEAD
 Ways
@@ -51,7 +51,7 @@ Special Places
                 [X] Waldrand
                 [ ] Falle
                 [ ] (Hasenfamilie)
-                [ ] Hexenhaus
+                [X] Hexenhaus
                 [ ] Feekurve/ Höhle
                 [ ] Höhle Sackgasse
                 [ ] Wasserfall
