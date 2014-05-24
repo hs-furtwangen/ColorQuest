@@ -18,16 +18,16 @@ Items
 		[ ] Black Sphere "Eternal Darkness"
 		
 	Werewolf
-		[ ] Shadow
+		[x] Shadow
 	
 Characters
 	The three Guardians:
-		[x] Frog	(The Water Guardian)
-		[x] Wise Owl (The Air Guardian)
-		[x] Rabbitfather (The Earth Guardian)
+		[ ] Frog	(The Water Guardian)
+		[ ] Wise Owl (The Air Guardian)
+		[ ] Rabbitfather (The Earth Guardian)
 	
-		[x] Werewolf
-		[x] Troll
+		[ ] Werewolf
+		[ ] Troll
 
 
 
