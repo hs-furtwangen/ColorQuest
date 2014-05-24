@@ -53,5 +53,10 @@ Werwolf
 									--> shadow puzzle appears
 
 
+Troll
+	Situation		Comments		Dialog
+	-------------------------------------------------------------------------------------------------------------------------------------------------------
+	1								Argh Light get Lost you hurt my eyes. To my luck your light is not strong enough to get rid of me.
+									--> laser puzzle appears
 					
 									
