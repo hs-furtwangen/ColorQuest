@@ -1,5 +1,11 @@
-Witch
+Owl
 	Situation		Comments		Dialog
+	-------------------------------------------------------------------------------------------------------------------------------------------------------	
+	1				entrapped		
+									As long as I remain in this world I shall hinder your evil deeds.
+									--> Witch disappears
+									This is not over yet. Light you have been fooled. The forest is dying due to the lack of colors and the pollution of the world. The witch has already trapped the other colors - only Black and You managed to escape her. We don't know the whereabouts of Black though. I am the last of the three Guardians who has remained its memory but my power is fading away while we are talking. I soon won't be able to keep up this form. Please help us to rescue our world.
+	
 Witch
 	Situation		Comments		Dialog
 	-------------------------------------------------------------------------------------------------------------------------------------------------------	
@@ -11,6 +17,8 @@ Witch
 									"Light - I see you followed my call.
 									Did you really believe the forest would capture the colors? Did you really believe you could safe them? The forest needs the colors to live and she would never hurt her beloved creatures. But I - the Witch - need to take over the control over the colors to enhance my power. You really are the only one left. Since you are too powerful I had to lure you inside the eternal darkness of this forest where you are weakened.
 									--> owl appears
+							
+					
 									
 Rabbit
 	Situation		Comments		Dialog
@@ -28,7 +36,7 @@ Rabbit
 									You were a big help - come back whenever you need help and I will try to be there for you.
 
 	3		FrogQuestStarted		
-									My memory seems to come back with each step you make. You have encountered the Old Frog? He once was a wise guardian of this forest. With the humans poluting the earth he got corrupted and confused. But he can be safed. His heart is frozen and you have to renew it. Here - take mine. The Frog is a powerful creature. You need my help.
+									My memory seems to come back with each step you make. You have encountered the Old Frog? He once was one of the three wise guardians of this forest. With the humans polluting the earth he got corrupted and confused. But he can be safed. His heart is frozen and you have to renew it. Here - take mine. The Frog is a powerful creature. You need my help.
 									--> Take it: yes/ no
 									If no:
 									Your heart is as pure as the light you emit. Hm... there might me another chance - but it is only a legend. Legend has it that in the deepest heart of the forest lies the heart of Eternal Darkness - the fifth color that completes the circle.
@@ -39,5 +47,4 @@ Rabbit
 									--> rabbit leaves, spirit rabbit appears --> heart appears in inventory
 	
 						
-						
-	
+									
