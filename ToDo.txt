@@ -7,12 +7,12 @@ GUI Elements
 Items
 	Tutorial:
 		[x] Carrot
-		[ ] magical Plant
-		[ ] empty wooden bowl
-		[ ] filled wooden bowl with medicine
+		[x] magical Plant
+		[x] empty wooden bowl
+		[x] filled wooden bowl with medicine
 
 	Frog
-		[ ] Heart
+		[x] Heart
 		[ ] Glass Bottle
 		[ ] Poition
 		[ ] Black Sphere "Eternal Darkness"
@@ -26,8 +26,8 @@ Characters
 		[x] Wise Owl (The Air Guardian)
 		[x] Rabbitfather (The Earth Guardian)
 	
-	[ ] Werewolf
-	[x] Troll
+		[ ] Werewolf
+		[x] Troll
 
 
 
