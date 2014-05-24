@@ -2,11 +2,11 @@
 Assetlist
 -------------------------
 GUI Elements
-	[] Arrow
+	[x] Arrow
 	
 Items
 	Tutorial:
-		[ ] Carrot
+		[x] Carrot
 		[ ] magical Plant
 		[ ] empty wooden bowl
 		[ ] filled wooden bowl with medicine
