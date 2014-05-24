@@ -46,7 +46,7 @@ Ways
                 [X] M
 
 Special Places
-                [ ] Wiese
+                [X] Wiese / Start
                 [ ] Waldrand
                 [ ] Falle
                 [ ] (Hasenfamilie)
