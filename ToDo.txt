@@ -7,7 +7,7 @@ GUI Elements
 Items
 	Tutorial:
 		[x] Carrot
-		[x] magical Plant
+		[ ] magical Plant
 		[ ] empty wooden bowl
 		[ ] filled wooden bowl with medicine
 
@@ -22,12 +22,12 @@ Items
 	
 Characters
 	The three Guardians:
-		[ ] Frog	(The Water Guardian)
-		[ ] Wise Owl (The Air Guardian)
+		[x] Frog	(The Water Guardian)
+		[x] Wise Owl (The Air Guardian)
 		[ ] Rabbitfather (The Earth Guardian)
 	
 	[ ] Werewolf
-
+	[ ] Troll
 
 
 
