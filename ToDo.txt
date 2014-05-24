@@ -26,7 +26,7 @@ Characters
 		[x] Wise Owl (The Air Guardian)
 		[x] Rabbitfather (The Earth Guardian)
 	
-		[ ] Werewolf
+		[x] Werewolf
 		[x] Troll
 
 
