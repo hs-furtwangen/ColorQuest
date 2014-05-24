@@ -1,0 +1,23 @@
+Witch
+	Situation		Comments		Dialog
+	-------------------------------------------------------------------------------------------------------------------------------------------------------
+	1		
+
+Rabbit
+	Situation		Comments		Dialog
+	-------------------------------------------------------------------------------------------------------------------------------------------------------
+	1		Tutorial, 
+			sick, lost memory			
+	
+									"Dear Light, would you please have some time for us? We are desperately in need of somebody who can help us.			
+									The forest is withering - there is not enough food to feed all her creatures and the sickness is spreading. It's a sickness of the heart - we are losing our inner selves the darker this place gets.
+									I need medicine for my family to stop this insanity. Please collect the incredients for it by searching and clicking on them - they will appear in your inventory. When you have all the items, combine them in the most useful way by clicking on one of them and dragging it onto another.
+									For the medicine we need the one thing that all rabbits love, a bowl to put in and a special magic incredient.
+						
+	2		Quest done				"Thank you, Light. This will not rescue us but it will at least it will delay the spreading a bit. 
+									You were a big help - come back whenever you need help and I will try to be there for you.
+
+	3		
+						
+						
+	
