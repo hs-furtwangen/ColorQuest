@@ -34,4 +34,6 @@ var wolfQuestSolved : boolean = false;
 var trapped : boolean = false;
 var entrapped : boolean = false;
 
-
+//play music
+var qMySound : Sound = new Musik_1();
+qMySound.play();
