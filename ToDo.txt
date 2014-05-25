@@ -22,13 +22,17 @@ Items
 	
 Characters
 	The three Guardians:
-		[x] Frog	(The Water Guardian)
-		[x] Wise Owl (The Air Guardian)
+		[ ] Frog	(The Water Guardian)
+		[ ] Wise Owl (The Air Guardian)
 		[ ] Rabbitfather (The Earth Guardian)
 	
 		[ ] Werewolf
 		[ ] Troll
 		[ ] Witch
+		[?] Fairy R
+		[?] Fairy G
+		[?] Fairy B
+		[?] Light
 
 <<<<<<< HEAD
 Ways
@@ -49,7 +53,7 @@ Ways
 Special Places
                 [X] Wiese / Start
                 [X] Waldrand
-                [ ] Falle
+                [X] Falle
                 [ ] (Hasenfamilie)
                 [x] Hexenhaus
                 [X] Feekurve/ Höhle
