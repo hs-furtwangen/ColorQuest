@@ -52,11 +52,11 @@ Special Places
                 [ ] Falle
                 [ ] (Hasenfamilie)
                 [x] Hexenhaus
-                [ ] Feekurve/ Höhle
-                [ ] Höhle Sackgasse
-                [ ] Wasserfall
-                [ ] Mammutbaum
-                [ ] Zickzackweg zum Hexenhaus
+                [X] Feekurve/ Höhle
+                [X] Höhle Sackgasse
+                [X] Wasserfall
+                [X] Mammutbaum
+                [X] Zickzackweg zum Hexenhaus
 =======
 >>>>>>> 91fec65bc260448d7be952f79cb0329d44471879
 
