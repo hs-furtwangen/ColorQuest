@@ -2,7 +2,7 @@
 Assetlist
 -------------------------
 GUI Elements
-	[x] Arrow
+		[x] Arrow
 	
 Items
 	Tutorial:
@@ -28,7 +28,7 @@ Items
 
         Sonstiges
                 [X] Feder
-                [ ] Feenkäfig
+                [x] Feenkäfig
 
 	
 Characters
