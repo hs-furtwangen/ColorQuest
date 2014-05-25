@@ -2,7 +2,7 @@
 Assetlist
 -------------------------
 GUI Elements
-	[x] Arrow
+		[x] Arrow
 	
 Items
 	Tutorial:
@@ -19,20 +19,31 @@ Items
 		
 	Werewolf
 		[x] Shadow
+
+        Hindernisse
+                [X] Busch E01 r
+                [X] Busch F01 l
+                [X] Busch G01 r
+                [X] Busch G01 o
+
+        Sonstiges
+                [X] Feder
+                [x] Feenkäfig
+
 	
 Characters
 	The three Guardians:
-		[ ] Frog	(The Water Guardian)
-		[ ] Wise Owl (The Air Guardian)
-		[ ] Rabbitfather (The Earth Guardian)
+		[X] Frog	(The Water Guardian)
+		[X] Wise Owl (The Air Guardian)
+		[X] Rabbitfather (The Earth Guardian)
 	
-		[ ] Werewolf
+		[X] Werewolf
 		[ ] Troll
-		[ ] Witch
-		[?] Fairy R
-		[?] Fairy G
-		[?] Fairy B
-		[?] Light
+		[X] Witch
+		[X] Fairy R
+		[X] Fairy G
+		[X] Fairy B
+		[X] Light
 
 <<<<<<< HEAD
 Ways
@@ -54,7 +65,6 @@ Special Places
                 [X] Wiese / Start
                 [X] Waldrand
                 [X] Falle
-                [ ] (Hasenfamilie)
                 [x] Hexenhaus
                 [X] Feekurve/ Höhle
                 [X] Höhle Sackgasse

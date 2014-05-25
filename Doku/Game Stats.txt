@@ -10,13 +10,21 @@ Programmed with and in
 
 Team Members:
 	Anke Meiering - 2D Art Director
-	Susanne Schmidt - Game Designer 
-	Sarah Häfele - Programmer & Game Designer 
-	Lukas Scheuerle - 2D Artist & Musician
+	Barbara Kopf - Puzzle Designer
+	Benedikt Recktenwald - Puzzle Programmer
 	Caspar Jacob - Programmer
-	Matthias Kaufmann - Programmer/ Mädchen für alles
+	Lukas Scheuerle - 2D Artist & Musician
+	Matthias Kaufmann - Programmer
 	Michael Gondokusumo - Author & Creative Head
-	Barbara Kopf - Riddle & Puzzle Designer
-	Special Thanks to: Ai Dong 
-	Yannic Zolg - The insanity itself/ Programmer /Storyassistent / Mädchen für alles
+	Sarah Häfele - Programmer & Game Designer
+	Susanne Schmidt - Game Designer
+	Yannic Zolg - Programmer & Storyassistent
+	 
+	Special Thanks to: 
+			Ai Nhi Thi Dong - Artist Advicer
+			Alexander Scheurer - Organizer Game Jam
+			Jirka Dell'Oro Friedl - Mentoring Professor
+			Meike Zöckler - Artist Advicer
+			
+			
 	

@@ -5,6 +5,10 @@
 	import flash.events.Event;
 	import flash.geom.Point;
 	import flash.utils.getQualifiedClassName;
+	import flash.utils.Timer;      
+	import flash.events.TimerEvent;   
+	 
+
 	
 	public class ShadowPuzzle extends MovieClip{
 
@@ -14,10 +18,16 @@
 		private var _isMoving:Boolean;
 		private var _movingSpeed:Number = 25;
 		private var _savePoint:Point;
+		private var myTimer:Timer = new Timer(1000, 0); 
 
 		public function ShadowPuzzle() {
 			InitializePuzzeParts();
 			this.addEventListener(Event.ENTER_FRAME, EnterAFrame);
+			this.btn_skip.addEventListener(MouseEvent.CLICK, skipPuzzle);
+			
+			myTimer.addEventListener("timer", showSkipButton); 
+			myTimer.start();
+			
 		}
 		
 		private function EnterAFrame(evt:Event){
@@ -25,6 +35,11 @@
 				MovePart();
 			}
 			SolveCheck();
+		}
+		
+		private function showSkipButton(evt:Event){
+			myTimer.stop();
+			this.gotoAndPlay("fade_skip");
 		}
 		
 		public function MovePart(){
@@ -49,7 +64,7 @@
 				var tmpIndex = _partHolder.indexOf(_activePart);
 				_partHolder[_partHolder.indexOf(_emptyPart)] = _activePart;
 				_partHolder[tmpIndex] = _emptyPart;
-				
+				Solve();
 				
 			}
 			
@@ -133,6 +148,8 @@
 					_isMoving = true;
 				}
 			}
+			
+			
 		}
 		
 		private function SolveCheck(){
@@ -148,6 +165,31 @@
 				
 			}
 			
+			
+		}
+		
+		private function skipPuzzle(evt:MouseEvent) {
+			Solve();
+		}
+		
+		private function Solve(){
+			
+			var tmpArray:Array = new Array();
+			for(var k = 0; k<_partHolder.length;k++){
+				for(var i = 0;i<_partHolder.length; i++) {
+					if(_partHolder[i].GetIndex() == k)
+						tmpArray.push(_partHolder[i]);
+				}
+			}
+			_partHolder = tmpArray;
+			for(var l = 0;l<_partHolder.length;l++) {
+				_partHolder[l].x = this.x + (l%4) * 150;
+				_partHolder[l].y = this.y + Math.floor(l/4) * 150;
+				_partHolder[l].buttonMode = false;
+				
+			}
+			
+			// was passiert jetzt?
 			
 		}
 		
