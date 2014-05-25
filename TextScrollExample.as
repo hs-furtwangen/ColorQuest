@@ -43,8 +43,10 @@
             myTextBox.height = 80; 
             myTextBox.multiline = true; 
             myTextBox.wordWrap = true; 
-            myTextBox.background = false; 
-            myTextBox.border = false; 
+            myTextBox.blendMode = BlendMode.LAYER;
+			myTextBox.alpha = .7;
+			myTextBox.backgroundColor = 0x000000;
+			myTextBox.background = true;
  
  			//myTextBox.textColor = 0xFFFFFF;
 			
