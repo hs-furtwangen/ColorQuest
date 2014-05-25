@@ -35,7 +35,7 @@ Characters
 	The three Guardians:
 		[ ] Frog	(The Water Guardian)
 		[ ] Wise Owl (The Air Guardian)
-		[ ] Rabbitfather (The Earth Guardian)
+		[X] Rabbitfather (The Earth Guardian)
 	
 		[ ] Werewolf
 		[ ] Troll
