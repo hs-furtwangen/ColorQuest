@@ -1,0 +1,30 @@
+trace("I'm frame ");
+
+function goUp (e:MouseEvent):void{
+	deleteListeners();
+	gotoAndPlay("");
+}
+function goDown (e:MouseEvent):void{
+	deleteListeners();
+	gotoAndPlay("");
+}
+function goLeft (e:MouseEvent):void{
+	deleteListeners();
+	gotoAndPlay("");
+}
+function goRight (e:MouseEvent):void{
+	deleteListeners();
+	gotoAndPlay("");
+}
+
+function deleteListeners(){
+	btn_U_mc.removeListener(MouseEvent.CLICK, goUp);
+	btn_D_mc.removeListener(MouseEvent.CLICK, goDown);
+	btn_L_mc.removeListener(MouseEvent.CLICK, goLeft);
+	btn_R_mc.removeListener(MouseEvent.CLICK, goRight);
+}
+
+btn_U_mc.addEventListener(MouseEvent.CLICK, goUp);
+btn_D_mc.addEventListener(MouseEvent.CLICK, goDown);
+btn_L_mc.addEventListener(MouseEvent.CLICK, goLeft);
+btn_R_mc.addEventListener(MouseEvent.CLICK, goRight);
