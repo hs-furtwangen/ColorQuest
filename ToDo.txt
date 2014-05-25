@@ -28,7 +28,7 @@ Items
 
         Sonstiges
                 [X] Feder
-                [ ] Feenkäfig
+                [x] Feenkäfig
 
 	
 Characters
