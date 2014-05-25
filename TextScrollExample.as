@@ -38,7 +38,7 @@
         { 
 			myTextBox.x = 5;
 			myTextBox.y = 600;
-            myTextBox.text =myText; 
+            myTextBox.text = myText; 
             myTextBox.width = 1280;
             myTextBox.height = 80; 
             myTextBox.multiline = true; 
