@@ -38,10 +38,10 @@ Characters
 		[ ] Werewolf
 		[ ] Troll
 		[ ] Witch
-		[?] Fairy R
-		[?] Fairy G
-		[?] Fairy B
-		[?] Light
+		[X] Fairy R
+		[X] Fairy G
+		[X] Fairy B
+		[X] Light
 
 <<<<<<< HEAD
 Ways
