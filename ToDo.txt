@@ -39,7 +39,7 @@ Characters
 	
 		[ ] Werewolf
 		[ ] Troll
-		[ ] Witch
+		[X] Witch
 		[X] Fairy R
 		[X] Fairy G
 		[X] Fairy B
@@ -65,7 +65,6 @@ Special Places
                 [X] Wiese / Start
                 [X] Waldrand
                 [X] Falle
-                [ ] (Hasenfamilie)
                 [x] Hexenhaus
                 [X] Feekurve/ Höhle
                 [X] Höhle Sackgasse
