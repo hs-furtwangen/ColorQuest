@@ -19,6 +19,15 @@ Items
 		
 	Werewolf
 		[x] Shadow
+
+        Hindernisse
+                [X] Busch E01 r
+                [X] Busch F01 l
+                [X] Busch G01 r
+                [X] Busch G01 o
+        Eule
+                [ ] Feder
+
 	
 Characters
 	The three Guardians:
@@ -29,10 +38,10 @@ Characters
 		[ ] Werewolf
 		[ ] Troll
 		[ ] Witch
-		[?] Fairy R
-		[?] Fairy G
-		[?] Fairy B
-		[?] Light
+		[X] Fairy R
+		[X] Fairy G
+		[X] Fairy B
+		[X] Light
 
 <<<<<<< HEAD
 Ways
